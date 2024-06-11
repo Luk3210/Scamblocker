@@ -7,3 +7,5 @@ To install:
 Note: I would put it on the Google store but I don't want to spend money on it just for no one to use it so if you do end up using it please fill out this form: https://forms.gle/fP2mt3K2gyfqpaiE8
 
 Made in collaboration with https://github.com/dtar-github
+
+MAKE SURE IT IS ALWAYS UP TO DATE
