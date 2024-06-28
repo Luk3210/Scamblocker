@@ -6,11 +6,8 @@ To install:
 
   **Option 1:**
 
-   Download from: [https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn](https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn)
-   <a target="_blank" href="[https://link](https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn))">
-   ...
-</a>
-
+   Download from the [Microsoft Addons Store](https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn)
+  
   **Option 2:**
 
    1. Download the .zip file, extract it, and place it somewhere safe. (In some cases, you may need to remove the readme from the folder.)
@@ -19,4 +16,4 @@ To install:
 
 Note: I would put it on the Google store, but I don't want to spend money on it just for no one to use it. If you do end up using it, please fill out this form: [https://forms.gle/fP2mt3K2gyfqpaiE8](https://forms.gle/fP2mt3K2gyfqpaiE8).
 
-Made in collaboration with [https://github.com/dtar-github](https://github.com/dtar-github).
+Made in collaboration with [dtar](https://github.com/dtar-github).
