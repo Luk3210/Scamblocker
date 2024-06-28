@@ -7,7 +7,7 @@ To install:
   **Option 1:**
 
    Download from: [https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn](https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn)
-   <a target="_blank" href="https://link">
+   <a target="_blank" href="[https://link](https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn))">
    ...
 </a>
 
