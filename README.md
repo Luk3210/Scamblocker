@@ -16,6 +16,4 @@ Note: I would put it on the Google store, but I don't want to spend money on it 
 
 Made in collaboration with [https://github.com/dtar-github](https://github.com/dtar-github).
 
-**MAKE SURE IT IS ALWAYS UP TO DATE FOR THE LATEST SECURITY.**
-
-Please know that this program cannot block ALL remote desktop sites.
+**Please know that this program cannot block ALL remote desktop sites.**
