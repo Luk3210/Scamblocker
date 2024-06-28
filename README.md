@@ -1,6 +1,6 @@
 This browser extension aims to prevent scams involving remote desktop programs.
 
-**Please know that this program cannot block ALL remote desktop sites.**
+**PLEASE NOTE THAT THIS PROGRAM CONNOT BLOCK ALL REMOTE DESKTOP SITES.**
 
 To install:
 
