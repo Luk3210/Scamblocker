@@ -2,7 +2,7 @@ This browser extension aims to prevent scams involving remote desktop programs.
 
 **PLEASE NOTE THAT THIS PROGRAM CONNOT BLOCK ALL REMOTE DESKTOP SITES.**
 
-To install, you can download from the [Microsoft Addons Store](https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn).or download the source from the releases page
+To install, you can download from the [Microsoft Addons Store](https://microsoftedge.microsoft.com/addons/detail/scamblocker/gfjjofefghaipfeeenanghkapgmjogbn) or download the source from the releases page
 
 Note: I would put it on the Google store, but I don't want to spend money on it just for no one to use it. If you do end up using it, please fill out [this form](https://forms.gle/fP2mt3K2gyfqpaiE8).
 
