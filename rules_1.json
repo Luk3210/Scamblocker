@@ -220,7 +220,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||screenconnect.connectwise.com",
@@ -232,7 +232,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||takesupport.us",
@@ -244,7 +244,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||takesupportnow.com",
@@ -256,7 +256,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||anyviewer.com",
@@ -268,7 +268,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||parsec.app",
@@ -280,7 +280,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||tailscale.com",
@@ -292,7 +292,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||realvnc.com",
@@ -304,7 +304,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||pcworld.com",
@@ -316,7 +316,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||iperiusremote.com",
@@ -328,7 +328,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||goto.com",
@@ -340,7 +340,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||okta.com",
@@ -352,7 +352,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||distantdesktop.com",
@@ -364,7 +364,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||rocketsoftware.com",
@@ -376,7 +376,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||n-able.com",
@@ -388,7 +388,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||rustdesk.com",
@@ -400,7 +400,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||duetdisplay.com",
@@ -412,7 +412,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||doubleclick",
@@ -424,7 +424,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||remotedesktop",
@@ -436,7 +436,7 @@
     "priority": 1,
     "action": {
       "type": "redirect",
-      "redirect": { "url": "https://luk3210.github.io/dependencies-for-my-projects/" }
+      "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
       "urlFilter": "||exe",
