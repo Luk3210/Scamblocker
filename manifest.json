@@ -28,7 +28,7 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "ScamBlocker",
+    "default_title": "ScamGuard",
     "default_icon": {
       "16": "/images/icon.png",
       "32": "/images/icon.png",
