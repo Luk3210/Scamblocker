@@ -1,5 +1,3 @@
-![GitHub package.json version](https://img.shields.io/github/downloads/Luk3210/ScamGuard/total)
-
 This browser extension aims to prevent scams involving remote desktop programs.
 
 **PLEASE NOTE THAT THIS PROGRAM CONNOT BLOCK ALL REMOTE DESKTOP SITES.**
