@@ -8,4 +8,4 @@ Note: I would put it on the Google store, but I don't want to spend money on it 
 
 Made in collaboration with [dtar](https://github.com/dtar-github).
 
-Not associated with scamguard.com
+Not associated with scamguard.com.
