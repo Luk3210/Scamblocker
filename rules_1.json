@@ -439,7 +439,7 @@
       "redirect": { "url": "https://luk3210.github.io/TurboLib/" }
     },
     "condition": {
-      "urlFilter": "||exe",
+      "urlFilter": "||ultraviewer.net",
       "resourceTypes": ["main_frame", "sub_frame"]
     }
   }
