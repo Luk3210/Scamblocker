@@ -1,7 +1,7 @@
 {
   "name": "ScamGuard",
   "manifest_version": 3,
-  "version": "2.2",
+  "version": "2.3",
   "description": "Blocks popular websites known to assist in scams and informs the user about the dangers of scams",
   "permissions": [
     "declarativeNetRequest",
